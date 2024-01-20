@@ -8,11 +8,7 @@ const Navbar = () => {
     <nav>
       <div className="flex flex-col sm:flex-row justify-between pt-3 mx-6">
         <div className="flex items-center hover:cursor-pointer">
-          <img
-            src="/src/assets/logo.png"
-            alt="Logo"
-            className="w-10 h-10 mr-2"
-          />
+          <img src="/public/logo.png" alt="Logo" className="w-10 h-10 mr-2" />
           <h1 className="text-2xl font-bold ">ZappFood</h1>
         </div>
         <div>
