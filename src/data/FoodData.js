@@ -93,7 +93,7 @@ const FoodData = [
   {
     id: 11,
     img: "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/129490/the-gothamist-prosciutto-burrata-sandwich-kit-4-pack.4238b1e274d50b6e09d0b488aebe64bd.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1",
-    name: "The Gothamist - Prosciutto + Burrata Sandwich Kit - 4 Pack",
+    name: "The Gothamist - Prosciutto + Burrata Sandwich Kit",
     price: 490,
     desc: "Indulge in a perfectly grilled salmon fillet seasoned with herbs and served with a side of roasted vegetables. A healthy and flavorful dinner option that's rich in omega-3 fatty acids.",
     category: "Sandwich",
@@ -277,7 +277,7 @@ const FoodData = [
     price: 90,
     desc: "Savor the classic taste of the Kentucky Derby with Woodford Reserve Mint Julep Syrup, perfect for crafting refreshing mint juleps at home.",
     category: "Drinks",
-    rating: 4.0,
+    rating: 4.1,
   },
   {
     id: 32,
@@ -286,7 +286,7 @@ const FoodData = [
     price: 90,
     desc: "Bring the vibrant spirit of New Orleans to your glass with Franco's Hurricane Mix, a delightful blend that captures the essence of the iconic cocktail.",
     category: "Drinks",
-    rating: 5.0,
+    rating: 4.3,
   },
   {
     id: 33,
@@ -295,7 +295,7 @@ const FoodData = [
     price: 90,
     desc: "Indulge in the rich flavors of the South with Evan Williams Gourmet Mint Julep Mix, a premium blend that brings the sophistication of Louisville to your cocktail hour.",
     category: "Drinks",
-    rating: 4.0,
+    rating: 4.7,
   },
   {
     id: 34,
@@ -304,7 +304,7 @@ const FoodData = [
     price: 90,
     desc: "Elevate your fiesta with Johnny Sanchez Margarita Mix, a perfect blend of flavors that brings the spirit of New Orleans to your cocktail experience.",
     category: "Drinks",
-    rating: 5.0,
+    rating: 4.2,
   },
   {
     id: 35,
@@ -313,7 +313,7 @@ const FoodData = [
     price: 50,
     desc: "Indulge in the refreshing allure of Papaya King's Tropical Drink, a vibrant and exotic concoction that transports your taste buds to a tropical paradise.",
     category: "Drinks",
-    rating: 5.0,
+    rating: 4.8,
   },
   {
     id: 36,
@@ -322,7 +322,7 @@ const FoodData = [
     price: 390,
     desc: "Indulge in the decadence of Killer Brownie® German Chocolate Brownie, a luscious treat that combines rich chocolate with coconut and pecans.",
     category: "Chocolate",
-    rating: 4.0,
+    rating: 4.9,
   },
   {
     id: 37,
@@ -331,7 +331,7 @@ const FoodData = [
     price: 340,
     desc: "Elevate your chocolate experience with Vosges Haut-Chocolat Dark Chocolate Truffle Collection, a symphony of exquisite flavors in every bite.",
     category: "Chocolate",
-    rating: 5.0,
+    rating: 4.4,
   },
   {
     id: 38,
@@ -340,7 +340,7 @@ const FoodData = [
     price: 70,
     desc: "Savor the perfect blend of tart raspberry and rich chocolate with Pietisserie Raspberry Chocolate Pie, a delightful dessert for any occasion.",
     category: "Chocolate",
-    rating: 4.0,
+    rating: 4.5,
   },
   {
     id: 39,
@@ -349,7 +349,7 @@ const FoodData = [
     price: 590,
     desc: "Experience the artistry of chocolate with K+M Chocolate Sampler Gift Box by Thomas Keller + Armando Manni, a curated selection of extraordinary flavors.",
     category: "Chocolate",
-    rating: 4.0,
+    rating: 4.1,
   },
   {
     id: 40,
@@ -358,7 +358,7 @@ const FoodData = [
     price: 200,
     desc: "Delight your taste buds with Carlo's Bakery Chocolate Fudge Cake, a heavenly creation that marries moist chocolate cake with velvety fudge frosting.",
     category: "Chocolate",
-    rating: 4.0,
+    rating: 4.2,
   },
 
   {
@@ -368,7 +368,7 @@ const FoodData = [
     price: 125,
     desc: "Experience joy in a jar with The Yard Milkshake Bar's Layered Ice Cream Sundae. Customize your pack and revel in the delicious layers of indulgent ice cream goodness.",
     category: "icecream",
-    rating: 5,
+    rating: 4.6,
   },
   {
     id: 42,
@@ -377,7 +377,7 @@ const FoodData = [
     price: 75,
     desc: "Dive into the whimsical world of flavor with Nightingale Ice Cream Sandwiches' Cookie Monster creation. An 8-pack of pure delight for those who love cookies and cream.",
     category: "icecream",
-    rating: 4,
+    rating: 4.2,
   },
   {
     id: 43,
@@ -386,7 +386,7 @@ const FoodData = [
     price: 94,
     desc: "Experience pure bliss with Nancy Silverton's Nancy's Fancy Gelato & Sorbetto Minis 12-Pack, a miniature indulgence of heavenly frozen delights.",
     category: "Ice Cream",
-    rating: 5.0,
+    rating: 4.9,
   },
   {
     id: 44,
@@ -395,7 +395,7 @@ const FoodData = [
     price: 75,
     desc: "Satisfy your cravings with Mochii Mochi Ice Cream Choose Your Own 12-Pack, a delightful fusion of chewy mochi and luscious ice cream in various flavors.",
     category: "Ice Cream",
-    rating: 5.0,
+    rating: 4.5,
   },
   {
     id: 45,
@@ -404,7 +404,7 @@ const FoodData = [
     price: 69,
     desc: "Savor the classic taste of Italy with The Cannoli Pie Company's Original Cannoli Pie. A delightful blend of crispy crust and creamy filling that captures the essence of Sicilian indulgence.",
     category: "dessert",
-    rating: 4,
+    rating: 4.8,
   },
   {
     id: 46,
@@ -413,7 +413,7 @@ const FoodData = [
     price: 89,
     desc: "Indulge in the heavenly combination of Brooklyn Blackout Cookie and Brownie with this delightful combo pack from Brooklyn Blackout Company. A true treat for your taste buds.",
     category: "dessert",
-    rating: 5,
+    rating: 4.5,
   },
   {
     id: 47,
@@ -422,7 +422,7 @@ const FoodData = [
     price: 89,
     desc: "Indulge in a dozen of Crave Cupcakes' Best Sellers and treat yourself to a delightful assortment of cupcakes bursting with flavors. A perfect way to satisfy your sweet cravings.",
     category: "dessert",
-    rating: 4,
+    rating: 4.8,
   },
   {
     id: 48,
