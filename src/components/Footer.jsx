@@ -9,7 +9,7 @@ import {
 
 function Footer() {
   return (
-    <div className="flex flex-col justify-center items-center mx-6 my-10">
+    <div className="flex flex-col justify-center items-center mx-6 my-14">
       <ul className="flex flex-wrap gap-4 text-gray-600">
         <li className="mb-2">
           <a href="#" className="hover:text-gray-800 transition-colors">
