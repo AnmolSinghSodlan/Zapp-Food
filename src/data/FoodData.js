@@ -403,7 +403,7 @@ const FoodData = [
     name: "The Cannoli Pie",
     price: 69,
     desc: "Savor the classic taste of Italy with The Cannoli Pie Company's Original Cannoli Pie. A delightful blend of crispy crust and creamy filling that captures the essence of Sicilian indulgence.",
-    category: "dessert",
+    category: "Dessert",
     rating: 4.8,
   },
   {
@@ -412,7 +412,7 @@ const FoodData = [
     name: "Brooklyn Blackout",
     price: 89,
     desc: "Indulge in the heavenly combination of Brooklyn Blackout Cookie and Brownie with this delightful combo pack from Brooklyn Blackout Company. A true treat for your taste buds.",
-    category: "dessert",
+    category: "Dessert",
     rating: 4.5,
   },
   {
@@ -421,7 +421,7 @@ const FoodData = [
     name: "Crave Cupcakes",
     price: 89,
     desc: "Indulge in a dozen of Crave Cupcakes' Best Sellers and treat yourself to a delightful assortment of cupcakes bursting with flavors. A perfect way to satisfy your sweet cravings.",
-    category: "dessert",
+    category: "Dessert",
     rating: 4.8,
   },
   {
@@ -430,7 +430,7 @@ const FoodData = [
     name: "Ice Cream Donuts",
     price: 69,
     desc: "Create your own dessert adventure with Elegant Desserts' Choose Your Own Ice Cream Donuts. A delectable 6-pack of delightful treats to tantalize your taste buds.",
-    category: "dessert",
+    category: "Dessert",
     rating: 5,
   },
 ];

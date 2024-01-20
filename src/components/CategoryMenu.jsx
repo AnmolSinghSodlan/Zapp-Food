@@ -22,7 +22,7 @@ const CategoryMenu = () => {
   const selectedCategory = useSelector((state) => state.category.category);
 
   return (
-    <div className="ml-6">
+    <div className="mx-6">
       <div className="my-7 flex gap-3 overflow-x-scroll scroll-smooth lg:overflow-x-hidden">
         <button
           onClick={() => dispatch(setCategory("All"))}
@@ -37,7 +37,7 @@ const CategoryMenu = () => {
             <button
               onClick={() => dispatch(setCategory(category))}
               key={index}
-              className={`px-3 py-2 bg-gray-200 font-bold rounded-lg text-red-500 hover:bg-red-500 hover:text-white ${
+              className={`px-3 py-2 bg-gray-200 font-bold rounded-lg text-red-500 whitespace-nowrap hover:bg-red-500 hover:text-white ${
                 selectedCategory === category && "bg-red-500 text-white"
               } `}
             >
