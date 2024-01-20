@@ -367,7 +367,7 @@ const FoodData = [
     name: "The Yard Milkshake Bar",
     price: 125,
     desc: "Experience joy in a jar with The Yard Milkshake Bar's Layered Ice Cream Sundae. Customize your pack and revel in the delicious layers of indulgent ice cream goodness.",
-    category: "icecream",
+    category: "Ice Cream",
     rating: 4.6,
   },
   {
@@ -376,7 +376,7 @@ const FoodData = [
     name: "Nightingale Ice Cream Sandwiches",
     price: 75,
     desc: "Dive into the whimsical world of flavor with Nightingale Ice Cream Sandwiches' Cookie Monster creation. An 8-pack of pure delight for those who love cookies and cream.",
-    category: "icecream",
+    category: "Ice Cream",
     rating: 4.2,
   },
   {
