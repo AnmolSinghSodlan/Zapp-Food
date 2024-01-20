@@ -24,7 +24,7 @@ const Navbar = () => {
         </div>
       </div>
       <h3 className="text-1g text-gray-600 mx-6 mb-6">
-        Exploring the Most Delectable Delicacies from Home to Heart."
+        Exploring the Most Delectable Delicacies from Home to Heart.
       </h3>
     </nav>
   );
